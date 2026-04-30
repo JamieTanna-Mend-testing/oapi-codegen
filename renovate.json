@@ -68,6 +68,12 @@
 				],
 				"executionMode": "branch"
 			}
+		},
+		{
+			"matchManagers": [
+				"gomod"
+			],
+			"constraintsFiltering": "strict"
 		}
 	],
 	"customManagers": [
